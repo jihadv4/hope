@@ -1,0 +1,123 @@
+book_id,title,author,year,semester,course,total_copies,available_copies
+101,"Set Theory and Related topics","Seymour Lipschutz, Schaum’s",1st,1st,AMAT1101,10,10
+102,"Set Theory and Number Systems","R. S. Agarwal",1st,1st,AMAT1101,10,10
+103,"Discrete Mathematics and Its Applications","Kenneth H. Rosen",1st,1st,AMAT1101,10,10
+104,"Discrete Mathematical Structures","Koleman & Busby",1st,1st,AMAT1101,10,9
+105,"Higher Algebra","Bernard and Child",1st,1st,AMAT1102,10,9
+106,"Theory of equations","Barnside and Panton:",1st,1st,AMAT1102,10,9
+107,"Higher Algebra","Hall and Knight",1st,1st,AMAT1102,10,10
+108,"Higher Trigonometry","Das and Mukherjee",1st,1st,AMAT1102,10,10
+109,"Higher Trigonometry","S.A. Sattar",1st,1st,AMAT1102,10,10
+110,Calculus,"Howard Anton",1st,1st,AMAT1103,10,10
+111,"Differential Calculus","J. Edward",1st,1st,AMAT1103,10,10
+112,"Calculus and analytical","G.B. Thomas and R. L. Finny",1st,1st,AMAT1103,10,10
+113,"Calculus and analytical Geometry","S.K. Stein and A. Barcellos",1st,1st,AMAT1103,10,9
+114,Calculus,"F. Ayres",1st,1st,AMAT1103,10,10
+115,"Advanced Calculus","M.R. Spiegel",1st,1st,AMAT1103,10,10
+116,"Theory of Matrices","F. Ayres",1st,1st,AMAT1104,10,10
+117,"Theory of Matrices","C. C. Mcduffe",1st,1st,AMAT1104,10,10
+118,"Linear Algebra","S. Lipschutz",1st,1st,AMAT1104,10,10
+119,"Elementary Linear Algebra","S. L. Croasman",1st,1st,AMAT1104,10,10
+120,"Mechanics properties of Matter","Ahmed and Nath",1st,1st,AMAT1110,10,10
+121,"Padartha Bidya (Bengali)","Bandopadhya and Ghose",1st,1st,AMAT1110,10,10
+122,"General Properties of Matter","Emran, et al.",1st,1st,AMAT1110,10,10
+123,": Physics (1 and 2)","Halliday and Resnick",1st,1st,AMAT1110,10,10
+124,"Text Book of Sound",Emran,1st,1st,AMAT1110,10,10
+125,"Text Book of Sound",Saha,1st,1st,AMAT1110,10,10
+126,"Elements of Properties of Matter","D.S. Mathur",1st,1st,AMAT1110,10,10
+127,"Methods of Statistics","Bhuyan, K.C",1st,1st,AMAT1111,10,10
+128,"An Introduction to the theory of Statistics","Yule and Kendal",1st,1st,AMAT1111,10,10
+129,"Introductory Statistics, Wiley & Sons, NY","Hool. P.H",1st,1st,AMAT1111,10,10
+130,"Elements of V Probability and Statistical Applications, 2nd ED","Wolf, FL",1st,1st,AMAT1111,10,10
+131,"Statistical Techniques in Business and Economics","Lind, A. D., Marchal, W. and Wathen",1st,1st,AMAT1111,10,9
+132,"Practical MATLAB","Irfan Turk",1st,1st,AMAT1120,10,10
+133,"MATLAB Programming for Engineers","Stephen J. Chapman",1st,1st,AMAT1120,10,10
+134,"Beginning MATLAB and Simulink","Sulaymon Eshkabilov",1st,1st,AMAT1120,10,10
+135,"A Guide to MATLAB","Brian R. Hunt",1st,1st,AMAT1120,10,10
+136,"Analytic Geometry of Conic Sections","Askwith H. H.",1st,2nd,AMAT1201,10,10
+137,"Analytic Geometry of Conic Sections","Smith C",1st,2nd,AMAT1201,10,9
+138,"Analytic Geometry of Conic Sections","Loney S. L",1st,2nd,AMAT1201,10,10
+139,"Analytic Geometry of Conic Sections","Kar J. M",1st,2nd,AMAT1201,10,10
+140,"Vector & Tensor Analysis","M. R. Spiegel",1st,2nd,AMAT1202,10,10
+141,"Vector Analysis","A.K. Hazera",1st,2nd,AMAT1202,10,10
+142,"Vector Analysis","M.A. Sattar",1st,2nd,AMAT1202,10,10
+143,Calculus,"Howard Anton",1st,2nd,AMAT1203,10,10
+144,"Differential Calculus","J. Edward",1st,2nd,AMAT1203,10,10
+145,"Calculus and analytical","G.B. Thomas and R. L. Finny",1st,2nd,AMAT1203,10,10
+146,"Calculus and analytical Geometry","S.K. Stein and A. Barcellos",1st,2nd,AMAT1203,10,10
+147,Calculus,"F. Ayres",1st,2nd,AMAT1203,10,10
+148,"Advanced Calculus","M.R. Spiegel",1st,2nd,AMAT1203,10,10
+149,"Theory of Matrices","F. Ayres",1st,2nd,AMAT1204,10,10
+150,"Theory of Matrices","C. C. Mcduffe",1st,2nd,AMAT1204,10,10
+151,"Linear Algebra","S. Lipschutz",1st,2nd,AMAT1204,10,10
+152,"Elementary Linear Algebra","S. L. Croasman",1st,2nd,AMAT1204,10,10
+153,"Electricity and Magnetism",Acharyya,1st,2nd,PHYS1210,10,10
+154,"Principles of Electricity","Adans and page",1st,2nd,PHYS1210,10,10
+155,"Padarthavidya (Bengali). Constant & Ghose Theoretical Physics",Bandopadhyys,1st,2nd,PHYS1210,10,10
+156,"Electricity and Magnetism",Din,1st,2nd,PHYS1210,10,10
+157,"Text Book of Magnetism, Electricity and Modern Physics","Emran et al.",1st,2nd,PHYS1210,10,10
+158,"Probability and Probability Distribution","Roy, M.K",1st,2nd,STAT1211,10,10
+159,"A first Course in Probability","Ross S M",1st,2nd,STAT1211,10,10
+160,"The Elements of Probability Theory, Willey, NY","Cramer, H",1st,2nd,STAT1211,10,10
+161,"Introduction to Probability and Statistics, Vol-, CUP, London","Lindley D.V",1st,2nd,STAT1211,10,10
+162,"Probability McGraw-Hill, NY",Lipschutz,1st,2nd,STAT1211,10,10
+163,"Mathematica in Action (Second edition)","Stan Wagon, Springer-Verlag, New York, Inc",1st,2nd,AMAT1220,10,10
+164,"Living English Structure","Allen, WS",1st,2nd,ENG1221,10,10
+165,"Writing Scientific English","Swales, J",1st,2nd,ENG1221,10,10
+166,"English Grammar and composition","Wren and Martin",1st,2nd,ENG1221,10,10
+167,"Differential Calculus","Edwards J.",2nd,1st,AMAT2101,10,10
+168,"Integral Calculus",Williamson,2nd,1st,AMAT2101,10,10
+169,"Advanced Calculus","M. R. Spiegel",2nd,1st,AMAT2101,10,10
+170,"Advanced Calculus",Wider,2nd,1st,AMAT2101,10,10
+171,"Analytic Coordinate Geometry","Loney S. L.",2nd,1st,AMAT2102,10,10
+172,"A Treatise on Three-dimensional Geometry","Bell, J. T",2nd,1st,AMAT2102,10,10
+173,"An Elementary Treatise on Solid Geometry","Smith, C",2nd,1st,AMAT2102,10,10
+174,"Differential equations: A Modeling","Robert L. Borrelli and Courtney S.",2nd,1st,AMAT2103,10,10
+175,"Mathematical Biology","J. D. Murray",2nd,1st,AMAT2103,10,10
+176,"Differential Equations","S. L. Ross",2nd,1st,AMAT2103,10,10
+177,"Differential Equations","G. F. Simmons",2nd,1st,AMAT2103,10,10
+178,"Differential Equations","Frank Ayres",2nd,1st,AMAT2103,10,10
+179,"Differential Equations","B. D. Sharma",2nd,1st,AMAT2103,10,10
+180,"Tensor Calculus","B. Spain",2nd,1st,AMAT2104,10,10
+181,"Tensor Calculus & Riemannian Geometry","D. C. Agarwal",2nd,1st,AMAT2104,10,10
+182,"Vector & Tensor Analysis","M. R. Spiegel",2nd,1st,AMAT2104,10,10
+183,"Vector Analysis","M.A. Sattar",2nd,1st,AMAT2104,10,10
+184,"Tensor Calculus","Synge & Schild",2nd,1st,AMAT2104,10,10
+185,"An Introduction to Riemannian Geometry and Tensor Analysis","C. Weatherburn",2nd,1st,AMAT2104,10,10
+186,"Text Book of Heat, Thermodynamics and Radiation","Bhuiyan and Rahman",2nd,1st,PHYS2110,10,10
+187,"Physics (I and II)","Halliday and Resniek",2nd,1st,PHYS2110,10,10
+188,"A treatise on Heat","Saha and Srivastava",2nd,1st,PHYS2110,10,10
+189,Thermodynamics,"Leo and Sears",2nd,1st,PHYS2110,10,10
+190,"Text Book of Heat","T. Hossain",2nd,1st,PHYS2110,10,10
+191,"Text Book of Heat Thermodynamics and Radiation",Haque,2nd,1st,PHYS2110,10,10
+192,"Sampling Techniques","Cochran W. G.",2nd,1st,STAT2111,10,10
+193,"Survey Sampling McGraw Hill","Des Raj",2nd,1st,STAT2111,10,10
+194,"Experimental Designs, Wiley NY","Cochran W.G.& Cox, D.R",2nd,1st,STAT2111,10,10
+195,"Topics in Algebra","I. N. Herstein",2nd,2nd,AMAT2201,10,10
+196,"Modern Algebra","M. L. Khanna",2nd,2nd,AMAT2201,10,10
+197,"Linear Algebra",Lipschutz,2nd,2nd,AMAT2201,10,10
+198,"Modern Algebra",Agarwall,2nd,2nd,AMAT2201,10,10
+199,"An Elementary treatise on the dynamic of particle and Rigid Bodies","S. L. Loney",2nd,2nd,AMATH2202,10,10
+200,"An Elementary treatise on statics","S. L. loney",2nd,2nd,AMATH2202,10,10
+201,Dynamics,"A. S. Rasmey",2nd,2nd,AMATH2202,10,10
+202,Statics,"P. P. Gupta",2nd,2nd,AMATH2202,10,10
+203,Dynamics,"G. S. Malik",2nd,2nd,AMATH2202,10,10
+204,"Elements of Discrete Mathematics","C. L Liu",2nd,2nd,CSE2210,10,10
+205,"Introduction to Discrete Mathematics","Robert J. McElice",2nd,2nd,CSE2210,10,10
+206,"Applied discrete structure for computer Science","Alan Doer",2nd,2nd,CSE2210,10,10
+207,"The theory of Graphs","Berge, C",2nd,2nd,CSE2210,10,10
+208,"Graph Theory","Harary, F",2nd,2nd,CSE2210,10,10
+209,"Basic Graph Theory","Parthasarathy, K. R",2nd,2nd,CSE2210,10,10
+210,"Python Crash Course","Eric Matthes",2nd,2nd,CSE2211,10,10
+211,"Automate the Boring Stuff with python","AL Sweigart ",2nd,2nd,CSE2211,10,10
+212,"Learning Python","Mark Lutz",2nd,2nd,CSE2211,10,10
+213,"Python for Data Analysis","Wes McKinney",2nd,2nd,CSE2211,10,10
+214,"Text Book of Optics",Din,2nd,2nd,PHYS2212,10,10
+215,": Principles of optics",Mathur,2nd,2nd,PHYS2212,10,10
+216,"Text Book of Light",Mazumder,2nd,2nd,PHYS2212,10,10
+217,Optics,Sears,2nd,2nd,PHYS2212,10,10
+218,"Principles of Electronics","V. K. Mehta",2nd,2nd,PHYS2212,10,10
+219,"Concepts of Modern Physics",Beiser,2nd,2nd,PHYS2212,10,10
+220,"Atomic and Nuclear Physics","N. Suabrahmanyam and Brijlal",2nd,2nd,PHYS2212,10,10
+221,"An Introduction to Multivariate Statistical Analysis, 5th ed., Wiley, New York","Anderson, R. A. and D. W. Wichern",2nd,2nd,STAT2213,10,10
+223,"Applied Multivariate Statistical Analysis, 6th Edition, Pearson Education, Asia","Johnson, R. A. and D. W. Wichern",2nd,2nd,STAT2213,10,10

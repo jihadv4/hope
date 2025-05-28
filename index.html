@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JWGFJNPYPM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JWGFJNPYPM');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Library Management System</title>
+    <link rel="stylesheet" href="css/simplified-theme.css">
+    <link rel="icon" href="ls/ls/logo.png" type="image/x-icon">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background: var(--background);
+        }
+
+        .redirect-container {
+            text-align: center;
+            background: var(--background-card);
+            padding: var(--space-8);
+            border-radius: var(--radius-2xl);
+            box-shadow: var(--shadow-xl);
+            border: 1px solid var(--gray-700);
+            max-width: 400px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .redirect-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: var(--gradient-primary);
+        }
+
+        .redirect-logo {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto var(--space-4);
+            border-radius: 50%;
+            border: 3px solid var(--primary);
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .redirect-title {
+            font-size: var(--text-2xl);
+            font-weight: 800;
+            color: var(--text-primary);
+            margin-bottom: var(--space-2);
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .redirect-message {
+            color: var(--text-secondary);
+            margin-bottom: var(--space-6);
+            font-size: var(--text-base);
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid var(--gray-700);
+            border-top: 4px solid var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto var(--space-4);
+        }
+
+        .security-info {
+            background: rgba(99, 102, 241, 0.1);
+            border: 1px solid var(--primary);
+            border-radius: var(--radius);
+            padding: var(--space-3);
+            margin-top: var(--space-4);
+        }
+
+        .security-info p {
+            color: var(--primary-light);
+            font-size: var(--text-sm);
+            margin: 0;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.8; transform: scale(1.05); }
+        }
+    </style>
+    <script>
+        // Enhanced security check and redirect
+        document.addEventListener('DOMContentLoaded', function() {
+            // Clear any existing session data
+            if (typeof(Storage) !== "undefined") {
+                sessionStorage.clear();
+                localStorage.removeItem('tempData');
+            }
+            
+            // Add a small delay for better UX, then redirect
+            setTimeout(function() {
+                window.location.href = "login.html";
+            }, 2000);
+        });
+
+        // Prevent back button access
+        window.history.pushState(null, null, window.location.href);
+        window.onpopstate = function() {
+            window.history.go(1);
+        };
+    </script>
+</head>
+<body>
+    <div class="redirect-container">
+        <img src="ls/ls/logo.png" alt="Library Logo" class="redirect-logo">
+        <h1 class="redirect-title">🔐 Digital Library System</h1>
+        <p class="redirect-message">Initializing secure connection...</p>
+        
+        <div class="loading-spinner"></div>
+        
+        <div class="security-info">
+            <p>🛡️ Authentication required for system access</p>
+        </div>
+    </div>
+</body>
+</html>

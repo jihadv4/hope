@@ -1,0 +1,3 @@
+id,title,content,date_created,admin_id,status
+sample001,"Welcome to Digital Library","Welcome to our enhanced digital library system! You can now browse books, request borrowals, and receive important updates through this notice system. Please follow library rules and return books on time.","2025-05-27 10:00:00","admin","active"
+683523b9086e7,"Library Hours Update","Dear students, please note that the library will be open from 8:00 AM to 8:00 PM starting next week. Extended hours are available during exam periods. Thank you for your cooperation.","2025-05-27 02:30:17",2411028221,active
